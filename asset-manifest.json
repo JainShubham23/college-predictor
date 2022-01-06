@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/college-predictor/static/css/main.7d126119.chunk.css",
-    "main.js": "/college-predictor/static/js/main.1bf22206.chunk.js",
-    "main.js.map": "/college-predictor/static/js/main.1bf22206.chunk.js.map",
+    "main.js": "/college-predictor/static/js/main.237f1ea9.chunk.js",
+    "main.js.map": "/college-predictor/static/js/main.237f1ea9.chunk.js.map",
     "runtime-main.js": "/college-predictor/static/js/runtime-main.91f40e9e.js",
     "runtime-main.js.map": "/college-predictor/static/js/runtime-main.91f40e9e.js.map",
-    "static/js/2.20028444.chunk.js": "/college-predictor/static/js/2.20028444.chunk.js",
-    "static/js/2.20028444.chunk.js.map": "/college-predictor/static/js/2.20028444.chunk.js.map",
+    "static/js/2.22ddad66.chunk.js": "/college-predictor/static/js/2.22ddad66.chunk.js",
+    "static/js/2.22ddad66.chunk.js.map": "/college-predictor/static/js/2.22ddad66.chunk.js.map",
     "index.html": "/college-predictor/index.html",
-    "precache-manifest.5c557309e5c7524dd774dcc49dbf8ce1.js": "/college-predictor/precache-manifest.5c557309e5c7524dd774dcc49dbf8ce1.js",
+    "precache-manifest.3812138b31c2c393f1dd1a679b681d31.js": "/college-predictor/precache-manifest.3812138b31c2c393f1dd1a679b681d31.js",
     "service-worker.js": "/college-predictor/service-worker.js",
     "static/css/main.7d126119.chunk.css.map": "/college-predictor/static/css/main.7d126119.chunk.css.map",
-    "static/js/2.20028444.chunk.js.LICENSE.txt": "/college-predictor/static/js/2.20028444.chunk.js.LICENSE.txt"
+    "static/js/2.22ddad66.chunk.js.LICENSE.txt": "/college-predictor/static/js/2.22ddad66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91f40e9e.js",
-    "static/js/2.20028444.chunk.js",
+    "static/js/2.22ddad66.chunk.js",
     "static/css/main.7d126119.chunk.css",
-    "static/js/main.1bf22206.chunk.js"
+    "static/js/main.237f1ea9.chunk.js"
   ]
 }

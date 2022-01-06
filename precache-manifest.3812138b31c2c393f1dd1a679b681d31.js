@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd142948d187cdc37aace7ccbe95b457",
+    "revision": "2d43b1a6579286178bbe6e94ea9eb952",
     "url": "/college-predictor/index.html"
   },
   {
-    "revision": "9a17e422044b8546f053",
+    "revision": "168a72021f719aab1247",
     "url": "/college-predictor/static/css/main.7d126119.chunk.css"
   },
   {
-    "revision": "5104b41ddb0e55b333e4",
-    "url": "/college-predictor/static/js/2.20028444.chunk.js"
+    "revision": "e66dd98086ba172f75d6",
+    "url": "/college-predictor/static/js/2.22ddad66.chunk.js"
   },
   {
     "revision": "89a1b2dcd30c03705b2bceeb141b76b6",
-    "url": "/college-predictor/static/js/2.20028444.chunk.js.LICENSE.txt"
+    "url": "/college-predictor/static/js/2.22ddad66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a17e422044b8546f053",
-    "url": "/college-predictor/static/js/main.1bf22206.chunk.js"
+    "revision": "168a72021f719aab1247",
+    "url": "/college-predictor/static/js/main.237f1ea9.chunk.js"
   },
   {
     "revision": "63c336307a1c15e8a25b",
